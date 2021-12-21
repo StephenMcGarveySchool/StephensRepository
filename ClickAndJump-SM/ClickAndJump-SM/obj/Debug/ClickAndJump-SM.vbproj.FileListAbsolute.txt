@@ -1,0 +1,12 @@
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\bin\Debug\ClickAndJump-SM.exe.config
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\bin\Debug\ClickAndJump-SM.exe
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\bin\Debug\ClickAndJump-SM.pdb
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\bin\Debug\ClickAndJump-SM.xml
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.vbprojAssemblyReference.cache
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump_SM.Form1.resources
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump_SM.Resources.resources
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.vbproj.GenerateResource.cache
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.exe
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.xml
+H:\Network Documents\Com30s\ClickAndJump-SM\ClickAndJump-SM\obj\Debug\ClickAndJump-SM.pdb
